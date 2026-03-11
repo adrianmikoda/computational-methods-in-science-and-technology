@@ -1,0 +1,13 @@
+__pycache__/
+*
+!*/
+!*.*
+!Makefile
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.docx
+*.xlsx
+*.csv
