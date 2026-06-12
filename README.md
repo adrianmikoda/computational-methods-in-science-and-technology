@@ -7,7 +7,7 @@
 - [License](#license)
   
 ## Project Description
-A collection of programs, Jupyter notebooks, and reports developed for the "Computational Methods in Science and Technology" (Numerical Methods) university course.
+Collection of programs, Jupyter notebooks, and reports developed for the "Computational Methods in Science and Technology" (Numerical Methods) university course.
 
 ## Laboratories
 | Laboratory | Description | Source |
